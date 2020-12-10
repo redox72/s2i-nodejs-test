@@ -1,0 +1,20 @@
+{
+  "name": "s2i-nodejs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redox72/s2i-nodejs-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redox72/s2i-nodejs-test/issues"
+  },
+  "homepage": "https://github.com/redox72/s2i-nodejs-test#readme"
+}
